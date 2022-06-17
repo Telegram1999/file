@@ -24,26 +24,26 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
 
-📝 **Language:** [Python3](https://www.python.org)
+📝 **Language:** [Python3]( ഉളുപ്പുണ്ടോടാ )
 
-📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
+📚 **Library:** [Pyrogram](https://t.me/+UoIIkpKmmB45NTE9)
 
-📡 **Hosted on:** [Heroku](https://heroku.com)
+📡 **Hosted on:** [Heroku]( നിന്റെ തന്ത ഞാനാടാ മൈരേ )
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @KL_2335
 
-👥 **Support Group:** [Linux Repositories](https://t.me/DevsZone)
+👥 **Support Group:** [Pode my##](https://t.me/kmtz_channel_v3)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Discovery_Updates)
+📢 **Updates Channel:** [Team Rolex](https://t.me/kmtz_channel_v3)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @KL_2335
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
+[Donate Now](https://t.me/kmtz_channel_v3) (PayPal)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
